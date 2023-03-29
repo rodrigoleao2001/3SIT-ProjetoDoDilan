@@ -1,1 +1,1 @@
-Guarde nesta pasta documentos que explicam pendências de requisitos que não serão atendidos na primeira versão do  sistema
+Guarde nesta pasta documentos que explicam pendências de requisitos que não serão atendidos na primeira versão do  sistema, seu Banana!
